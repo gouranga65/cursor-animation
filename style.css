@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.text {
+  position: absolute;
+  top: 40%;
+  left: 32%;
+}
+h1 {
+  font-size: 60px;
+  font-family: "Itim", cursive;
+  color: whitesmoke;
+}
+body {
+  background-color: black;
+}
